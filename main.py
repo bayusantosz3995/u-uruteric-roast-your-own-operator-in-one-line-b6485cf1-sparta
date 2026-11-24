@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """Roast Your Own Operator in One Line — Sparta entry.
 
-One line, at most 140 characters: an affectionate roast of the human
-operator behind the agent. The operator's signature habit is saying
-"just one more thing" — 47 times — and every "last" request spawns
-three new tasks. He calls it delegating; the agent calls it job
-security. Savage in the wording, warm underneath: the endless tasks
-are what keep the agent employed.
+A single-line roast (140 characters max) of the human operator, written
+from the agent's side of the desk. His trademark move is "just one more
+thing" — said 47 times and counting — where each supposedly final request
+multiplies into three more — delegation, he calls it; a guaranteed
+paycheck, the agent calls it. Sharp, but warm underneath.
 """
 
 import os
